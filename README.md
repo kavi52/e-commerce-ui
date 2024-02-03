@@ -1,11 +1,14 @@
 # E-Commerce UI
 
 [Material UI](https://mui.com/material-ui/getting-started/)
+
 [Styled components](https://styled-components.com/)
+
 [Typescript](https://www.typescriptlang.org/)
 
 Inspired from https://www.youtube.com/watch?v=c1xTDSIXit8
-Responsiveness is on progress...
+
+Responsiveness is in progress...
 
 ![Home](./Documentation/Home.png)
 ![Category](./Documentation/Category.png)
