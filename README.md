@@ -1,1 +1,1 @@
-# e-commerce-ui
+# E-Commerce UI
